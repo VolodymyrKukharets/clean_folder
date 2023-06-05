@@ -26,8 +26,8 @@ def main():
     # Make dict for translate
     cyrillic_symbols = "абвгдеёжзийклмнопрстуфхцчшщъыьэюяєіїґ"
     translation = (
-    "a", "b", "v", "g", "d", "e", "e", "j", "z", "i", "j", "k", "l", "m", "n", "o", "p", "r", "s", "t", "u",
-    "f", "h", "ts", "ch", "sh", "sch", "", "y", "", "e", "yu", "ya", "je", "i", "ji", "g")
+        "a", "b", "v", "g", "d", "e", "e", "j", "z", "i", "j", "k", "l", "m", "n", "o", "p", "r", "s", "t", "u",
+        "f", "h", "ts", "ch", "sh", "sch", "", "y", "", "e", "yu", "ya", "je", "i", "ji", "g")
     trans = {}
 
     for c, t in zip(cyrillic_symbols, translation):
@@ -103,6 +103,7 @@ def main():
 
     start_iter(p)
     delete_empty_folders(p)
+
 
 if __name__ == '__main__':
     main()
