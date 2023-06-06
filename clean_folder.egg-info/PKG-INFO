@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: clean-folder
+Version: 1
+Summary: Sort all files and clear
+Home-page: https://github.com/VladimirKuharets/Cleaner
+Author: Volodymyr Kukharets
+Author-email: vladimir.kuharets.kiev@gmail.com
+License: MIT
+License-File: LICENSE
