@@ -8,5 +8,5 @@ Sort all files in the folder
 
 ## Run:\n
 <p>In cmd you need to write:</p>
-<p>clean-folder <folder_path_for_sort></p>
+<p>clean-folder folder_path_for_sort</p>
 
