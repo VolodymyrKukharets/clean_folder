@@ -1,12 +1,12 @@
 # clean_folder
 Sort all files in the folder
 
-Install:\n
-Download and unpack the archive\n
-Run cmd and change to a directory named setup.py\n
-Run command pip instal -e .\n\n
+## Install:
+<p>Download and unpack the archive</p>
+<p>Run cmd and change to a directory named setup.py</p>
+<p>Run command pip instal -e .</p>
 
-Run:\n
-In cmd you need to write: \n
-clean-folder <folder_path_for_sort>
+## Run:\n
+<p>In cmd you need to write:</p>
+<p>clean-folder <folder_path_for_sort></p>
 
